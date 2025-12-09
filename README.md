@@ -36,12 +36,12 @@ It offers multiple professional templates, Firebase authentication, and smooth n
 
 | Section | Screenshot |
 |--------|------------|
-| Homepage | *(r1 screenshot)* |
-| Login Page | *(r2 screenshot)* |
-| Dashboard | *(r3 screenshot)* |
-| Create Resume Page | *(r4 screenshot)* |
-| Resume Preview | *(r5 screenshot)* |
-| Template Page | *(r6 screenshot)* |
+| Homepage | ![r1](r1.PNG) |
+| Login Page |![r2](r2.PNG) |
+| Dashboard | ![r3](r3.PNG) |
+| Create Resume Page | ![r4](r4.PNG) |
+| Resume Preview | ![r5](r5.PNG)|
+| Template Page | ![r6](r6.PNG)|
 
 > These screenshots guide the viewer through the entire resume creation process.
 
