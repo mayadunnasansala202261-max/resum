@@ -47,42 +47,6 @@ It offers multiple professional templates, Firebase authentication, and smooth n
 
 ---
 
-## 📁 Project Structure
-
-resume-builder/
-├── auth.html ← login page
-├── register.html ← register page
-├── index.html ← landing page (uses pig.gif)
-├── dashboard.html ← user dashboard (avo.gif)
-├── create.html ← resume input form
-├── preview.html ← resume preview page (bir.gif)
-│
-├── templates/
-│ ├── template1.html
-│ ├── template2.html
-│ ├── template3.html
-│ ├── template4.html
-│ └── template5.html
-│
-├── assets/
-│ ├── js/
-│ │ ├── main.js ← Firebase config + auth
-│ │ ├── data.js ← save/read resume data
-│ │ ├── template-loader.js ← injects data into templates
-│ │ └── pdf.js ← export to PDF
-│ │
-│ └── images/
-│ ├── pig.gif
-│
-└── libs/
-├── jspdf.umd.min.js
-└── html2canvas.min.js
-
-
-
-
----
-
 ## 🧭 Project Walkthrough
 
 ### **1. Landing Page (index.html)**
